@@ -2,8 +2,6 @@ booking:
   yml: Booking Profile Dev Update
 
 spring:
-  datasource:
-    url: jdbc:mysql://localhost:3306/BookingDB
   jpa:
     hibernate:
       ddl-auto: update
