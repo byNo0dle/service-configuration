@@ -2,4 +2,4 @@ product:
   yml: Product Profile Dev
 
 app:
-  testProp: Property of test No0dle again
+  testProp: Property of test No0dle for Bus and Message Broker
